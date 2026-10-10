@@ -116,8 +116,6 @@ Desarrollador web y estudiante de **Ingeniería de Sistemas**, apasionado por cr
   </tr>
 </table>
 
-> 💡 Puedes reemplazar los enlaces de cada tarjeta por las URL exactas de tus repositorios para dirigir a los visitantes directamente a tus proyectos.
-
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -130,7 +128,6 @@ Desarrollador web y estudiante de **Ingeniería de Sistemas**, apasionado por cr
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=jeleonro&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones"/>
 </div>
----
 
 ## 🤝 Conectemos
 
